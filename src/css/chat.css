@@ -1,0 +1,46 @@
+.chat{
+    background-color:gainsboro;
+    width: 250px;
+    height: 250px;
+    overflow-y: scroll;
+
+   
+}
+
+
+.message-area{
+    position: absolute;
+    top: 250px;
+    left: 10px;
+    width: 210px;
+}
+
+.message{
+    color:black;
+    background-color:white;
+    padding: 10px;
+    text-align: left;
+    margin: 10px;
+    vertical-align: bottom;
+}
+.hidden {
+    visibility: hidden;
+    position: fixed;
+}
+.chatDiv{
+    padding: 5px;
+}
+.date {
+    font-size: 11px;
+    color: #999;
+  }
+  .text{
+    font-size: 12px;
+  }
+  .user{
+    color: rgb(5, 74, 158);
+  }
+  .submit{
+    width: 55px;   
+  }
+ 

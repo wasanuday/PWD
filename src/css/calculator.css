@@ -1,0 +1,14 @@
+.calc{
+    background-color:darkgray;
+    width: 250px;
+    height: 250px;
+}
+button{
+    width: 45px;
+    height: 45px;
+   
+}
+input{
+    width: 135px;
+    height: 40px;
+}
